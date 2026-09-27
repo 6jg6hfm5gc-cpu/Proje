@@ -1,0 +1,15 @@
+/workspaces/Proje/bin/Debug/net10.0/Proje
+/workspaces/Proje/bin/Debug/net10.0/Proje.deps.json
+/workspaces/Proje/bin/Debug/net10.0/Proje.runtimeconfig.json
+/workspaces/Proje/bin/Debug/net10.0/Proje.dll
+/workspaces/Proje/bin/Debug/net10.0/Proje.pdb
+/workspaces/Proje/obj/Debug/net10.0/Proje.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Proje/obj/Debug/net10.0/Proje.AssemblyInfoInputs.cache
+/workspaces/Proje/obj/Debug/net10.0/Proje.AssemblyInfo.cs
+/workspaces/Proje/obj/Debug/net10.0/Proje.csproj.CoreCompileInputs.cache
+/workspaces/Proje/obj/Debug/net10.0/Proje.sourcelink.json
+/workspaces/Proje/obj/Debug/net10.0/Proje.dll
+/workspaces/Proje/obj/Debug/net10.0/refint/Proje.dll
+/workspaces/Proje/obj/Debug/net10.0/Proje.pdb
+/workspaces/Proje/obj/Debug/net10.0/Proje.genruntimeconfig.cache
+/workspaces/Proje/obj/Debug/net10.0/ref/Proje.dll
